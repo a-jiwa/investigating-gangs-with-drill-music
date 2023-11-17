@@ -10,6 +10,7 @@ This repository hosts our project for the Bellingcat Hackathon, focusing on unde
    - **Artist Similarity Matrix Tool:** Generates a similarity matrix for a set of artists using Machine Learning (ML) to uncover connections.
    - **Song Similarity Matrix Tool:** Creates a similarity matrix for a set of songs to discover connections, leveraging ML techniques.
    - **Aggressiveness Assessment Model:** An ML model that evaluates the aggressiveness of an artist based on their songs.
+   - **Translate Slang:** Takes song lyrics, and translates slang words into thier real meannings
 3. **Datasets:**
    - **London Gangs Dataset:** Contains information on most main London gangs, including members, descriptions, 'opps' (opponents), and allies.
    - **Slang Terms Dataset:** A comprehensive list of slang terms used in UK Drill music, with their real meanings.
