@@ -14,6 +14,8 @@ This repository hosts our project for the Bellingcat Hackathon, focusing on unde
 3. **Datasets:**
    - **London Gangs Dataset:** Contains information on most main London gangs, including members, descriptions, 'opps' (opponents), and allies.
    - **Slang Terms Dataset:** A comprehensive list of slang terms used in UK Drill music, with their real meanings.
+   - **Drill Lyrics from Main UK Gangs** A geolocated map showing the locations of all major gangs in London.
+   - **Drill Lyrics from Main UK Gangs (Slang Translated)** A geolocated map showing the locations of all major gangs in London.
    - **Gang Locations Map:** A geolocated map showing the locations of all major gangs in London.
 4. **Research Article:** A written piece providing deep insights into our findings and methodologies.
 
