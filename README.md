@@ -4,7 +4,7 @@
 This repository hosts our project for the Bellingcat Hackathon, focusing on understanding gang culture in London through the lens of UK Drill music. Our team has developed a set of tools, datasets, and an article to aid researchers in exploring London gang culture and related gang violence.
 
 ### Key Components
-1. **Website:** Provides a explanation of our investigation. Access it at: [[URL](https://a-jiwa.github.io/investigating-uk-drill/)]
+1. **Website:** Provides a explanation of our investigation. Access it [HERE](https://a-jiwa.github.io/investigating-uk-drill/)
 2. **Command Line Tools:**
    - **Lyric Fetcher:** Retrieves the lyrics of all songs by a specified artist.
    - **Artist Similarity Matrix Tool:** Generates a similarity matrix for a set of artists using Machine Learning (ML) to uncover connections.
